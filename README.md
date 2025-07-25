@@ -1,5 +1,5 @@
 
-# 🏦 Bank Lending System — Agetware Assignment
+# 🏦 Bank Lending System — Assignment
 
 A full-stack web application that simulates a simplified **Bank Lending System** where customers can take loans, make EMI/lump-sum payments, and view their transaction history and ledger. This project demonstrates structured backend design, RESTful API development, and a clean React-based frontend UI.
 
