@@ -7,8 +7,8 @@ A full-stack web application that simulates a simplified **Bank Lending System**
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel)**: [https://bank-lending-frontend.vercel.app](https://bank-lending-frontend.vercel.app)
-- **Backend (Render)**: [https://bank-lending-backend.onrender.com](https://bank-lending-backend.onrender.com)
+- **Frontend (Vercel)**: [https://bank-lending-kappa.vercel.app/]
+- **Backend (Render)**: [https://github.com/MeghanaMachireddy126/bank-lender-backend]
 
 ---
 
